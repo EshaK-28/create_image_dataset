@@ -4,10 +4,7 @@ Usage: python gather_images.py <label_name> <num_samples>
 
 The script will collect <num_samples> number of images and store them
 in its own directory.
-
-Only the portion of the image within the box displayed
-will be captured and stored.
-
+Portion in box will be captured.
 Press 'a' to start/pause the image collecting process.
 Press 'q' to quit.
 
